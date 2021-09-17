@@ -21,6 +21,12 @@
 <img src="images/Cardiotocografia.jpg?raw=true"/>
 
 
+---
+
+## Data Visualization
+
+### [2008-2020 Economic Crisis Comparison in Emilia Romagna](https://public.tableau.com/profile/re.lab#!/vizhome/TrendER-CNAHUB4_0_16069863084400/WebPage)
+<img src="images/table.png?raw=true"/>
 
 ---
 
