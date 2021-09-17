@@ -1,7 +1,7 @@
 title: Giuseppe Carbonara # your name (or website title) here
 logo: "/images/profilo1.png?raw=true" # your photo (or logo) here
 description: >
-  I`m Giuseppe, 32 years old Data Scientist student of the 2nd level Master course in Data Science and Statistical Learning at the University of Florence and IMT School for Advanced Studies Lucca.
+  I`m Giuseppe, 32 years old Data Scientist student of the 2nd level Master course in <a href="https://md2sl.imtlucca.it/"> Data Science and Statistical Learning</a>  at the University of Florence and IMT School for Advanced Studies Lucca.
   I have a Master degree in human-Computer interaction with a background in psychology and a multi-disciplinary curriculum.
 
   During the last two years, I worked as UX designer/Researcher in the R&D team of Re:Lab s.r.l. at Reggio Emilia (Italy); My role encompassed the whole design process, from the preliminary exploratory stages of the user research to the data analysis and the creation of prototypes ready to be developed or tested, keeping the users' needs always in mind.
@@ -11,7 +11,8 @@ description: >
   I have excellent knowledge of quantitative data analysis in Python and R programming and data visualization tools as Tableau,  as well as in qualitative research methodologies as interviews and focus groups. I am a proficient user of Adobe Creative Suite (PS, Illustrator, InDesign) and prototyping tools (as Axure, XD),
 
   I like to constantly challenge myself and I am looking forward to working with you!
-
+  
+  <br><br>
 
   <a href="https://www.linkedin.com/in/gobrac/">View My LinkedIn Profile</a> 
   
