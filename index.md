@@ -8,7 +8,7 @@
 
 
 ### [Handwritten Digit Recognition - SVM](https://github.com/gobrac/Portfolio/blob/9e3b7128237d4a12e1f3f93b267c3fc19bf3fbfc/Projects/Semi_supervised_Learning-Vision.ipynb)
-<img src="images/digits.png?raw=true"/>
+<img src="images/digits.jpg?raw=true"/>
 
 ### [Company Bankruptcy Prediction](https://github.com/gobrac/Portfolio/blob/546241ccc289fb2e08e42180c42cae10478f16bb/Projects/Statistical%20Learning%20-%20Prof.%20Gottard.ipynb)
 <img src="images/bankrupt.jpg?raw=true"/>
