@@ -1,13 +1,14 @@
 title: Giuseppe Carbonara # your name (or website title) here
 logo: "/images/profilo1.png?raw=true" # your photo (or logo) here
 description: >
-  I`m Giuseppe, 32 years old Data Scientist student of the 2nd level Master course in <a href="https://md2sl.imtlucca.it/"> Data Science and Statistical Learning</a>  at the University of Florence/IMT School for Advanced Studies Lucca.
+  I` m Giuseppe, 32 years old Data Scientist student of the 2nd level Master course in <a href="https://md2sl.imtlucca.it/"> Data Science and Statistical Learning</a>  at the University of Florence/IMT School for Advanced Studies Lucca.
   I have a Master degree in human-Computer interaction with a background in psychology and a multi-disciplinary curriculum. <br> 
   This page contains some of the Machine Learning projects I developed.
   
   <br><br>
 
-  <a href="https://www.linkedin.com/in/gobrac/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/gobrac/Portfolio/blob/aae8556314d100c3d06f12f2cf998177ab4448b7/CV_ds.pdf">View my CV</a> 
+  <a href="https://www.linkedin.com/in/gobrac/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: G-Z7VG95QDQ5 # your Google Analytics tracking ID here
