@@ -6,6 +6,8 @@
 ### [Emotion recognition from face expression - PyTorch](https://github.com/gobrac/Portfolio/blob/261d470600dc73b718c76b51ba3671825c13d78f/Projects/Project-Hands_on_Labs.ipynb)
 <img src="images/face.jpeg?raw=true"/>
 
+### [Convolutional Neural Networks for Sentence Classification](https://github.com/gobrac/Portfolio/blob/57dcc0361ae2575ffb81ecf5359cd34c0d75ec34/Projects/Text_Mining_and_NLP_Prof_Marinai.ipynb)
+<img src="images/CNN.png?raw=true"/>
 
 ### [Handwritten Digit Recognition - SVM](https://github.com/gobrac/Portfolio/blob/9e3b7128237d4a12e1f3f93b267c3fc19bf3fbfc/Projects/Semi_supervised_Learning-Vision.ipynb)
 <img src="images/digit.jpg?raw=true"/>
