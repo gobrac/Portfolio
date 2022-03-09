@@ -3,7 +3,7 @@
 
 ## Pyhon Projects
 
-### [Bayesian Approach for a Media Mix Modelling](https://github.com/gobrac/Portfolio/blob/3225358eef51e25623e881e09a5ed8443df3d750/Projects/MMM_Main_expo_sim_beta+scale.ipynb)
+### [Bayesian Approach for a Media Mix Modelling](https://github.com/gobrac/Portfolio/blob/6e551e35ba579df6fa81200582d55b02d24d3f90/Projects/Bayesian_Approach_for_MMM.ipynb)
 <img src="images/baye.jpg?raw=true"/>
 
 ### [Emotion recognition from face expression - PyTorch](https://github.com/gobrac/Portfolio/blob/261d470600dc73b718c76b51ba3671825c13d78f/Projects/Project-Hands_on_Labs.ipynb)
