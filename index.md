@@ -15,15 +15,14 @@
 ### [Handwritten Digit Recognition - SVM](https://github.com/gobrac/Portfolio/blob/9e3b7128237d4a12e1f3f93b267c3fc19bf3fbfc/Projects/Semi_supervised_Learning-Vision.ipynb)
 <img src="images/digit.jpg?raw=true"/>
 
-### [Company Bankruptcy Prediction](https://github.com/gobrac/Portfolio/blob/546241ccc289fb2e08e42180c42cae10478f16bb/Projects/Statistical%20Learning%20-%20Prof.%20Gottard.ipynb)
+### [Company Bankruptcy Prediction](https://github.com/gobrac/Portfolio/blob/2f65017dc852fa4033fa290bc1723496a040696c/Projects/Analytics%20in%20economics%20and%20business%20_Project.ipynb)
 <img src="images/bankrupt.jpg?raw=true"/>
-
 
 ---
 
 ## R Projects 
 
-### [Predict fetal's health from Cardiotocogram data](https://github.com/gobrac/Portfolio/blob/2f65017dc852fa4033fa290bc1723496a040696c/Projects/Analytics%20in%20economics%20and%20business%20_Project.ipynb)
+### [Predict fetal's health from Cardiotocogram data](https://github.com/gobrac/Portfolio/blob/546241ccc289fb2e08e42180c42cae10478f16bb/Projects/Statistical%20Learning%20-%20Prof.%20Gottard.ipynb)
 <img src="images/Cardiotocografia.jpg?raw=true"/>
 
 
