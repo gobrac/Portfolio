@@ -1,7 +1,7 @@
 
 ## DESIGN FOR MIGRANTS
 
-<img src="images/focusM.jpg"/>
+<img src="https://github.com/gobrac/Portfolio/raw/master/images/focusM.jpg"/>
 
 The aim of this project was to work collaboratively with a local non-governmental organisation called Kaleidoscopio, to develop a product or service aimed to improve the condition of immigrants and refugees located in the urban area of Trento.
 
