@@ -9,7 +9,7 @@ The aim of this project was to exploit the concept of Critical Design. Developin
 
 We believe nowadays, with the extreme consumerism world we live in, people buy and buy without knowing what they are buying and without having the knowledge of the consequences behind the actions they make. That is why we designed this speculative technology, that could work on smart devices like the the smart TV. Where the user could stop at any frame to purchase the products displayed on TV, and when redirected to the information section of that product, there would be displayed “The Real Price of Things”, meaning the water consumed to produce that product, the slavery behind it, and the real price it would cost if it would have been produced in totally fair conditions.
 
-To watch the video follow this link: https://vimeo.com/246513276
+To watch the video follow this link:  <a href="https://vimeo.com/246513276">https://vimeo.com/246513276 </a> 
   
   <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
   <tr>
@@ -19,7 +19,7 @@ To watch the video follow this link: https://vimeo.com/246513276
       <tr>
     <td><p align="right"> 2016              </p></td>
     <td><p align="right"> Critical design project of HCI master course:       </p></td>
-    <td><p align="right"> https://vimeo.com/246513276             </p></td>
+    <td><p align="right"> <a href="https://vimeo.com/246513276">Video demo </a>             </p></td>
   </tr>
   </tr>
 </table>
