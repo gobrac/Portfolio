@@ -30,7 +30,8 @@ This system would enable the user to request a shared or private ride by an auto
       <tr>
     <td><p align="left"> 2017              </p></td>
     <td><p align="left"> Prototyping project of HCI master course          </p></td>
-    <td><p align="left"> <a href="https://42bvh3.axshare.com/home.html">Android</a>  </br><a href="https://5olzst.axshare.com/home.html">IOS</a>           </p></td>
+    <td><p align="left"> <a href="https://42bvh3.axshare.com/home.html">Android</a>  </br> 
+          <a href="https://5olzst.axshare.com/home.html">IOS</a>           </p></td>
   </tr>
   </tr>
 </table>
