@@ -23,6 +23,7 @@ Afterwards, we analysed the data in order to find evidence regarding the goodnes
 <li>design critique 
 </ul>
 
+
 **Developing instruments:**
 <ul>
 <li>Photoshop
