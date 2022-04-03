@@ -30,7 +30,7 @@ Afterwards, we analysed the data in order to find evidence regarding the goodnes
 <li>R-studio
 <ul>
   
-  <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
+  <table >
   <tr>
     <th><p align="left">Date:       </th></p>
     <th><p align="left">For:       </th></p>
