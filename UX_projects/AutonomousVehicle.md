@@ -11,15 +11,15 @@ This system would enable the user to request a shared or private ride by an auto
 
 **User research methods:**
 <ul>
-<li>interviews
-<li>thinking aloud
+<li>interviews</li>
+<li>thinking aloud</li>
 </ul>
 
 **Developing instruments:**
 <ul>
-<li>Photoshop
-<li>Illustrator
-<li>Axure
+<li>Photoshop</li>
+<li>Illustrator</li>
+<li>Axure</li>
 </ul>
   
   <table>
