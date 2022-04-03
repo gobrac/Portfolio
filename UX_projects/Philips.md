@@ -28,19 +28,19 @@ This is, in turn, to enhance the quality of life, productivity and safety of dis
 <li>Photoshop
 <li>Illustrator
 <li>Axure
-<ul>
+</ul>
   
   <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
   <tr>
-    <th><p align="left">Date:       </th></p>
-    <th><p align="left">Client:       </th></p>
-    <th><p align="left">Role:       </th></p>
-    <th><p align="left">Video (Demo):       </th></p>
+    <th><p align="left">Date:               </p></th>
+    <th><p align="left">Client:             </p></th>
+    <th><p align="left">Role:               </p></th>
+    <th><p align="left">Video (Demo):       </p></th>
       <tr>
-    <td><p align="right"> 2019              </th></p></td>
-    <td><p align="right"> Philips lighting CSR project for UNHCR              </th></p></td>
-    <td><p align="right"> Design coordinator              </th></td>
-    <td><p align="right"> https://vimeo.com/416905873             </th></td>
+    <td><p align="right"> 2019             ></p></td>
+    <td><p align="right"> Philips lighting CSR project for UNHCR              </p></td>
+    <td><p align="right"> Design coordinator            </td>
+    <td><p align="right"> https://vimeo.com/416905873         </td>
   </tr>
   </tr>
 </table>
