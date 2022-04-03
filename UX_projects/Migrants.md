@@ -22,18 +22,17 @@ Our team of students, together with the asylum seekers developed some solutions 
 **Developing instruments:**
 <ul>
 <li>Paper Prototyping
-<ul>
+</ul>
   
-  <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
+  <table s>
   <tr>
-    <th><p align="left">Date:       </th></p>
-    <th><p align="left">Role:       </th></p>
-    <th><p align="left">Report:       </th></p>
+    <th><p align="left">Date:       </p></th>
+    <th><p align="left">Role:       </p> </th>
+    <th><p align="left">Report:     </p>  </th>
       <tr>
-    <td><p align="right"> 2016              </th></p></td>
-    <td><p align="right"> Participatory Design project of HCI master course:             </th></td>
-    <td><p align="right">   <a href="https://github.com/gobrac/Portfolio/blob/master/Projects/PD%20immigrants%20group%20report.pdf">Download Document</a> 
-            </th></td>
+    <td><p align="right"> 2016          </p></td>
+    <td><p align="right"> Participatory Design project of HCI master course:         </td></p>
+    <td><p align="right">   <a href="https://github.com/gobrac/Portfolio/blob/master/Projects/PD%20immigrants%20group%20report.pdf">Download</a> </td></p>
   </tr>
   </tr>
 </table>
