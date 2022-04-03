@@ -43,7 +43,7 @@ Afterwards, we analysed the data in order to find evidence regarding the goodnes
       <tr>
     <td><p align="right"> 2016             </p></td>
     <td><p align="right"> Project of User-Centered Design course </p></td>
-    <td><p align="right">   <a href="https://github.com/gobrac/Portfolio/blob/master/Projects/Booklet.pdf">Download Document</a>  </p></td>
+    <td><p align="right">   <a href="https://github.com/gobrac/Portfolio/blob/master/Projects/Booklet.pdf">Download</a>  </p></td>
   </tr>
   </tr>
 </table>
