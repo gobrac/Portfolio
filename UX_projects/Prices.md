@@ -1,6 +1,6 @@
 
 ## THE REAL PRICE OF THINGS
-<img src="images/price.webp"/>
+<img src="https://github.com/gobrac/Portfolio/blob/master/images/price.webp?raw=true"/>
 
 The aim of this project was to exploit the concept of Critical Design. Developing a concept of an interactive technology that could tackle some society issues.
 
