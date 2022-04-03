@@ -38,7 +38,7 @@
 
 ---
 
-# Portfolio Quantitative UX Researcher | UX Designer
+# PORTFOLIO Quantitative UX Researcher | UX Designer
 
 ### [Almost Experimental](/UX_projects/AlmostExp.md)
 Academic Project
