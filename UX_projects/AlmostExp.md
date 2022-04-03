@@ -20,18 +20,18 @@ Afterwards, we analysed the data in order to find evidence regarding the goodnes
 
 <b>User research methods:</b>
 <ul>
-<li>PACT 
-<li>interviews 
-<li>focus group 
-<li>design critique 
+<li>PACT </li>
+<li>interviews </li>
+<li>focus group </li>
+<li>design critique </li>
 </ul>
 
 
 <b>Developing instruments:</b>
 <ul>
-<li>Photoshop
-<li>Illustrator
-<li>R-studio
+<li>Photoshop</li>
+<li>Illustrator</li>
+<li>R-studio</li>
 </ul>
   
   
