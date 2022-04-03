@@ -19,7 +19,7 @@ This system would enable the user to request a shared or private ride by an auto
 <li>Axure
 <ul>
   
-  <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
+  <table>
   <tr>
     <th><p align="left">Date:       </th></p>
     <th><p align="left">Client:       </th></p>
