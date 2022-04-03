@@ -38,7 +38,7 @@
 
 ---
 
-# PORTFOLIO Quantitative UX Researcher | UX Designer
+# PORTFOLIO UX Researcher | UX Designer
 
 ### [LIGHTING INTERVENTIONS IN UNHCR REFUGEES CAMPS](/UX_projects/Philips.md)
 International CSR project
