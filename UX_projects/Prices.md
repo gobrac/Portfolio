@@ -13,13 +13,13 @@ To watch the video follow this link: https://vimeo.com/246513276
   
   <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
   <tr>
-    <th><p align="left">Date:       </th></p>
-    <th><p align="left">Client:       </th></p>
-    <th><p align="left">Video (Demo):       </th></p>
+    <th><p align="left">Date:       </p></th>
+    <th><p align="left">Client:      </p> </th>
+    <th><p align="left">Video (Demo):      </p> </th>
       <tr>
-    <td><p align="right"> 2016              </th></p></td>
-    <td><p align="right"> Critical design project of HCI master course:       </th></td>
-    <td><p align="right"> https://vimeo.com/246513276             </th></td>
+    <td><p align="right"> 2016              </p></td>
+    <td><p align="right"> Critical design project of HCI master course:       </p></td>
+    <td><p align="right"> https://vimeo.com/246513276             </p></td>
   </tr>
   </tr>
 </table>
