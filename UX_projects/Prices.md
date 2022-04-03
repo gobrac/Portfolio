@@ -11,7 +11,7 @@ We believe nowadays, with the extreme consumerism world we live in, people buy a
 
 To watch the video follow this link:  <a href="https://vimeo.com/246513276">https://vimeo.com/246513276 </a> 
   
-  <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
+  <table>
   <tr>
     <th><p align="left">Date:       </p></th>
     <th><p align="left">Client:      </p> </th>
