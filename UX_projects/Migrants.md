@@ -31,8 +31,8 @@ Our team of students, together with the asylum seekers developed some solutions 
     <th><p align="left">Report:     </p>  </th>
       <tr>
     <td><p align="right"> 2016          </p></td>
-    <td><p align="right"> Participatory Design project of HCI master course:         </td></p>
-    <td><p align="right">   <a href="https://github.com/gobrac/Portfolio/blob/master/Projects/PD%20immigrants%20group%20report.pdf">Download</a> </td></p>
+    <td><p align="right"> Participatory Design project of HCI master course:       </p>  </td>
+    <td><p align="right">   <a href="https://github.com/gobrac/Portfolio/blob/master/Projects/PD%20immigrants%20group%20report.pdf">Download</a> </p></td>
   </tr>
   </tr>
 </table>
