@@ -36,5 +36,22 @@
 ---
 
 
+---
 
+# Portfolio Quantitative UX Researcher | UX Designer
+
+### [Almost Experimental](/UX_projects/AlmostExp.md)
+Academic Project
+
+### [AUTONOMOUS VEHICLE ON-DEMAND](/UX_projects/AutonomousVehicle.md)
+Prototyping project of HCI master course
+
+### [DESIGN FOR MIGRANTS](/UX_projects/Migrants.md)
+Participatory Design project of HCI master course
+
+### [LIGHTING INTERVENTIONS IN UNHCR REFUGEES CAMPS](/UX_projects/Philips.md)
+International CSR project
+
+### [THE REAL PRICE OF THINGS](/UX_projects/Prices.md)
+Critical Design Project
 
