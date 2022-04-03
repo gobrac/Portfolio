@@ -13,21 +13,21 @@ This is, in turn, to enhance the quality of life, productivity and safety of dis
 
 **User research methods:**
 <ul>
-<li>interviews
-<li>Focus group
-<li>Workshop (brainstorming and clustering)
-<li>Persona
-<li>User journey
-<li>Prototyping
-<li>thinking aloud
+<li>interviews</li>
+<li>Focus group</li></li>
+<li>Workshop (brainstorming and clustering)</li>
+<li>Persona</li>
+<li>User journey</li>
+<li>Prototyping</li>
+<li>thinking aloud</li>
 
 </ul>
 
 **Developing instruments:**
 <ul>
-<li>Photoshop
-<li>Illustrator
-<li>Axure
+<li>Photoshop</li>
+<li>Illustrator</li>
+<li>Axure</li>
 </ul>
   
   <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
@@ -37,10 +37,10 @@ This is, in turn, to enhance the quality of life, productivity and safety of dis
     <th><p align="left">Role:               </p></th>
     <th><p align="left">Video (Demo):       </p></th>
       <tr>
-    <td><p align="right"> 2019             ></p></td>
+    <td><p align="right"> 2019             </p></td>
     <td><p align="right"> Philips lighting CSR project for UNHCR              </p></td>
-    <td><p align="right"> Design coordinator            </td>
-    <td><p align="right"> https://vimeo.com/416905873         </td>
+    <td><p align="right"> Design coordinator           </p> </td>
+    <td><p align="right"> https://vimeo.com/416905873       </p>  </td>
   </tr>
   </tr>
 </table>
