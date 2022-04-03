@@ -18,7 +18,7 @@ Based on the outcomes of this UCD methodology, we created a prototype which was 
 
 Afterwards, we analysed the data in order to find evidence regarding the goodness of our artefact respect to the existing one (the institutional website).
 
-**User research methods:**
+<b>User research methods:</b>
 <ul>
 <li>PACT 
 <li>interviews 
@@ -27,7 +27,7 @@ Afterwards, we analysed the data in order to find evidence regarding the goodnes
 </ul>
 
 
-**Developing instruments:**
+<b>Developing instruments:</b>
 <ul>
 <li>Photoshop
 <li>Illustrator
