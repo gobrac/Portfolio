@@ -12,16 +12,16 @@ Our team of students, together with the asylum seekers developed some solutions 
 
 **User research methods:**
 <ul>
-<li>interviews
-<li>Focus group
-<li>Thinking Aloud
+<li>interviews</li>
+<li>Focus group</li>
+<li>Thinking Aloud</li>
 
 
 </ul>
 
 **Developing instruments:**
 <ul>
-<li>Paper Prototyping
+<li>Paper Prototyping</li>
 </ul>
   
   <table s>
