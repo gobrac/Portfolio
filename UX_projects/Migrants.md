@@ -24,7 +24,7 @@ Our team of students, together with the asylum seekers developed some solutions 
 <li>Paper Prototyping</li>
 </ul>
   
-  <table s>
+  <table>
   <tr>
     <th><p align="left">Date:       </p></th>
     <th><p align="left">Role:       </p> </th>
