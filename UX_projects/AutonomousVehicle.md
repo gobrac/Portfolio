@@ -17,17 +17,17 @@ This system would enable the user to request a shared or private ride by an auto
 <li>Photoshop
 <li>Illustrator
 <li>Axure
-<ul>
+</ul>
   
   <table>
   <tr>
-    <th><p align="left">Date:       </th></p>
-    <th><p align="left">Client:       </th></p>
-    <th><p align="left">Prototype links:       </th></p>
+    <th><p align="left">Date:      </p> </th>
+    <th><p align="left">Client:      </p> </th>
+    <th><p align="left">Prototype links:       </p></th>
       <tr>
-    <td><p align="right"> 2017              </th></p></td>
-    <td><p align="right"> Prototyping project of HCI master course             </th></p></td>
-    <td><p align="left"> Android: https://42bvh3.axshare.com/home.html </br>IOS: https://5olzst.axshare.com/home.html           </th></td>
+    <td><p align="left"> 2017              </p></td>
+    <td><p align="left"> Prototyping project of HCI master course          </p></td>
+    <td><p align="left"> Android: https://42bvh3.axshare.com/home.html </br>IOS: https://5olzst.axshare.com/home.html           </p></td>
   </tr>
   </tr>
 </table>
