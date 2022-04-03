@@ -46,3 +46,7 @@ This is, in turn, to enhance the quality of life, productivity and safety of dis
 </table>
 
 <img src="https://github.com/gobrac/Portfolio/blob/master/images/3vkAm3AUGNDe0r1763RD3Q.webp?raw=true"/>
+
+<p align="right">
+    <a href="/UX_projects/AutonomousVehicle.md">Next project </a> 
+</p>
