@@ -30,7 +30,7 @@ This is, in turn, to enhance the quality of life, productivity and safety of dis
 <li>Axure</li>
 </ul>
   
-  <table style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
+  <table >
   <tr>
     <th><p align="left">Date:               </p></th>
     <th><p align="left">Client:             </p></th>
