@@ -1,7 +1,7 @@
 
 ## ALMOST EXPERIMENTAL project
 
-<img src="images/almostExp.webp"/>
+<img src="https://raw.githubusercontent.com/gobrac/Portfolio/master/images/almostExp.webp"/>
 
 The purpose of this project was to promote the HCI master of the University of Trento in an original, alternative and innovative way.
 
