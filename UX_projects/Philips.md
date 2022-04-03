@@ -42,4 +42,4 @@ This is, in turn, to enhance the quality of life, productivity and safety of dis
   </tr>
 </table>
 
-<img src="images/3vkAm3AUGNDe0r1763RD3Q.webp"/>
+<img src="https://github.com/gobrac/Portfolio/blob/master/images/3vkAm3AUGNDe0r1763RD3Q.webp?raw=true"/>
