@@ -1,6 +1,6 @@
 
 ## AUTONOMOUS VEHICLE ON-DEMAND
-<img src="images/auto.jpg"/>
+<img src="https://github.com/gobrac/Portfolio/raw/master/images/auto.jpg"/>
 
 The project is the final delivery of the prototyping course for the master in Human-Computer Interaction at University of Trento: a prototype of a mobile application (both in material design and IOS) for an autonomous-ride-hailing service.
 
