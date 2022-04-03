@@ -31,16 +31,16 @@ Afterwards, we analysed the data in order to find evidence regarding the goodnes
 <li>R-studio
 <ul>
   
+  
   <table >
   <tr>
-    <th><p align="left">Date:       </th></p>
-    <th><p align="left">For:       </th></p>
-    <th><p align="left">Booklet:       </th></p>
+    <th><p align="left">Date:      </p></th>
+    <th><p align="left">For:       </p></th>
+    <th><p align="left">Booklet:   </p></th>
       <tr>
-    <td><p align="right"> 2016              </th></p></td>
-    <td><p align="right"> Project of User-Centered Design course            </th></td>
-    <td><p align="right">   <a href="https://github.com/gobrac/Portfolio/blob/master/Projects/Booklet.pdf">Download Document</a> 
-            </th></td>
+    <td><p align="right"> 2016             </p></td>
+    <td><p align="right"> Project of User-Centered Design course </p></td>
+    <td><p align="right">   <a href="https://github.com/gobrac/Portfolio/blob/master/Projects/Booklet.pdf">Download Document</a>  </p></td>
   </tr>
   </tr>
 </table>
