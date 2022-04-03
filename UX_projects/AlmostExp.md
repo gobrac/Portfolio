@@ -32,7 +32,7 @@ Afterwards, we analysed the data in order to find evidence regarding the goodnes
 <li>Photoshop
 <li>Illustrator
 <li>R-studio
-<ul>
+</ul>
   
   
   <table >
