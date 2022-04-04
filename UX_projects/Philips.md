@@ -14,7 +14,7 @@ This is, in turn, to enhance the quality of life, productivity and safety of dis
 **User research methods:**
 <ul>
 <li>interviews</li>
-<li>Focus group</li></li>
+<li>Focus group</li>
 <li>Workshop (brainstorming and clustering)</li>
 <li>Persona</li>
 <li>User journey</li>
